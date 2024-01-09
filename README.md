@@ -55,18 +55,18 @@ Go to Microsoft Evalcenter for Windows Server 2022 and Download the ISO file. Do
 <img src="https://i.imgur.com/uOTBJhW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Launch the VM: It will ask you which ISO Virtualbox must mount on the VM, load the Windows Server one. <br/>
+Launch the VM: It will ask you which ISO, load the Windows Server one. <br/>
 
 <br />
 
 <br />
- Launch the VM. It will ask you which ISO Virtualbox must mount on the VM, load the pfsense one. <br/>
+ Select the English language to install. The other settings can be adjusted with your favorite configuration but the Windows must be installed in English.                   <br/>
  
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
- Install and accept the Copyright and Trademark Notices.     <br/>
+ Select "install now." Select "Windows Server 2022 Datacenter Evaluation (Desktop Experience)". For a lab, the GUI can be usefull if you start a fresh career in IT.           <br/>
  
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
