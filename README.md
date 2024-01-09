@@ -52,10 +52,10 @@ Go to Microsoft Evalcenter for Windows Server 2022 and Download the ISO file. Do
 <br />
   <br/> Go to the VM properties. In the Network tab, change the configuration to use internal network: GREEN
  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uOTBJhW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
-This will be the ORANGE CARD (DMZ) <br/>
+Launch the VM: It will ask you which ISO Virtualbox must mount on the VM, load the Windows Server one. <br/>
 
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
