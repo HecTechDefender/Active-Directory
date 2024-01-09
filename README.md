@@ -27,8 +27,8 @@ Go to Microsoft Evalcenter for Windows Server 2022 and Download the ISO file. Do
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Create a new virtual machine <br/>
+<img src="https://i.imgur.com/LCtbzdp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  <br/>
