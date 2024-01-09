@@ -23,7 +23,7 @@ In this project, I'm on a mission to build a SOC home lab! This project will cov
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Go to Microsoft Evalcenter for Windows Server 2022 and Download the ISO file. <br/>
+Go to Microsoft Evalcenter for Windows Server 2022 and Download the ISO file. Download the ISO in 64 bits in English. <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
