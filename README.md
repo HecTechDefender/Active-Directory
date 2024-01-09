@@ -23,7 +23,7 @@ In this project, I'm on a mission to build a SOC home lab! This project will cov
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Create a new virtual machine <br/>
+Go to [Microsoft Evalcenter] (https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022). Select "Download the ISO file." <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
