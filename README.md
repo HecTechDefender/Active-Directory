@@ -42,15 +42,15 @@ Go to Microsoft Evalcenter for Windows Server 2022 and Download the ISO file. Do
 <img src="https://i.imgur.com/uIdQ6cH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection: <br/>
+           <br/>
 <img src="https://i.imgur.com/zJpd5Nc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Go to the VM properties. In Network tab, activate 3 adapters. Making note of the MAC Addresses of each adapters will be useful for future actions. This will be the RED CARD. (external network) <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+           <br />
+<img src="https://i.imgur.com/nTHp01d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-  <br/> This will be the GREEN CARD (internal network)
+  <br/> Go to the VM properties. In the Network tab, change the configuration to use internal network: GREEN
  
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
