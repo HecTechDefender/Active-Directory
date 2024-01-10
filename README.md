@@ -92,7 +92,7 @@ Launch the VM: It will ask you which ISO, load the Windows Server one. <br/>
 <br />
 
 <br />
-Connect to your administrator account. Go to "Open Network & Internet Settings." Change adapter options. Select your card properties. Go to "Internet Protocol Version 4" Properties. Assign IP. Try to join the gateway. (so your LAN INTERFACE in pfsense) Rename the server with an easy name to remember/use.   <br/>
+Connect to your administrator account. Go to "Open Network & Internet Settings." Change adapter options. Select your card properties. Go to "Internet Protocol Version 4" Properties. Assign IP. Try to join the gateway. (so your LAN INTERFACE in pfsense) Rename the server with an easy name to remember/use. Then restart your VM.    <br/>
 <img src="https://i.imgur.com/fsARCiF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
@@ -100,8 +100,8 @@ Connect to your administrator account. Go to "Open Network & Internet Settings."
 <br />
 
 <br />
-                  <br/>
-<img src="https://i.imgur.com/ekAi53u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    Connect to your admin account. Select "Add roles and features". Add a role-based installation.  <br/>
+<img src="https://i.imgur.com/WU86NHi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 <br /> 
 <br />
@@ -112,8 +112,8 @@ Connect to your administrator account. Go to "Open Network & Internet Settings."
 
 
 <br />
- We can see the MAC Addresses. Remember, we recommended to make a note of the MAC addresses. It is always helpful to have/know them. Select the RED INTERFACE for WAN. Select the GREEN INTERFACE for LAN. Select the last one (ORANGE) for DMZ. <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  Select the only server you have. Add "Active Directory Domain Services"   <br/>
+<img src="https://i.imgur.com/LKCPerD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br /> 
 <br />
 <br />
