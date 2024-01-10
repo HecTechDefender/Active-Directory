@@ -166,8 +166,9 @@ Connect to your administrator account. Go to "Open Network & Internet Settings."
 <br />
 
 <br />
-                          <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+     Now you have the Active Directory Server, you need to populate it with misconfigurations to perform analysis. We will use BadBlood for this task, Download it on AD, Extract it, Launch Powershell as admin, go to Badblood folder, Launch Invoke-BadBlood.ps1 and let the magic happen (this will take several minutes)
+ <br />
+ <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br /> 
  
                  
