@@ -133,8 +133,30 @@ Connect to your administrator account. Go to "Open Network & Internet Settings."
 <br />
 
 <br />
-                          <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+           Add a new Active Directory Forest               <br/>
+<img src="https://i.imgur.com/oHYlLbE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br /> 
+ 
+                 
+<br />
+
+<br /> 
+<br />
+
+<br />
+         Leave the default configurations and set a password.                  <br/>
+<img src="https://i.imgur.com/ITxolF1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br /> 
+ 
+                 
+<br />
+
+<br /> 
+<br />
+
+<br />
+       Leave the DNS part default. Check the NetBIOS domain name. Leave the default path. Launch the install. Reboot when asked.                     <br/>
+<img src="https://i.imgur.com/yCG1Bm4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br /> 
  
                  
@@ -162,6 +184,7 @@ Connect to your administrator account. Go to "Open Network & Internet Settings."
                  
 <br />
 
+
 <br /> 
 <br />
 
@@ -172,3 +195,4 @@ Connect to your administrator account. Go to "Open Network & Internet Settings."
  
                  
 <br />
+
