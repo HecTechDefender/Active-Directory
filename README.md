@@ -104,7 +104,6 @@ Connect to your administrator account. Go to "Open Network & Internet Settings."
 <img src="https://i.imgur.com/WU86NHi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 <br /> 
-<br />
 
 
 <br />
@@ -117,16 +116,59 @@ Connect to your administrator account. Go to "Open Network & Internet Settings."
   <br /> 
 <br />
 <br />
-<br /> Confirm         <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />       <br/>
+<img src="https://i.imgur.com/BRNlROd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br />
 
 <br />
-<br/>
+  Leave the other Windows settings with the default configurations. After it's complete, promote this server to a domain controller.  <br/>
+<img src="https://i.imgur.com/nz5Vjcp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br /> 
+ 
+                 
+<br />
+
+<br /> 
+<br />
+
+<br />
+                          <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />Select 2 to configure the IP address. 
- Leave the WAN interface as DHCP. 
- Select 2 to change the LAN interface. 
- Asssign the IP and subnet you want, the gateway must be none.<br/> <br /> 
+ <br /> 
+ 
+                 
+<br />
+
+<br /> 
+<br />
+
+<br />
+                          <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br /> 
+ 
+                 
+<br />
+
+<br /> 
+<br />
+
+<br />
+                          <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br /> 
+ 
+                 
+<br />
+
+<br /> 
+<br />
+
+<br />
+                          <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br /> 
+ 
+                 
 <br />
