@@ -92,15 +92,19 @@ Launch the VM: It will ask you which ISO, load the Windows Server one. <br/>
 <br />
 
 <br />
-        Reboot on the new system   <br/>
-<br />
+  Connect to your administrator account. Go to "Open Network & Internet Settings." Change adapter options. Select your card properties. Go to "Internet Protocol Version 4" Properties. Assign IP. Try to join the gateway. (so your LAN INTERFACE in pfsense)
+Rename the server with an easy name to remember/use.   <br/>
+<img src="https://i.imgur.com/fsARCiF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
 
 <br />
-        Now, the server is powered on with the new system. Select 1 to configure interfaces.  <br/>
+
+<br />
+                  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br /> 
+  
+<br /> 
 <br />
 
 
