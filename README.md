@@ -62,35 +62,32 @@ Launch the VM: It will ask you which ISO, load the Windows Server one. <br/>
 <br />
  Select the English language to install. The other settings can be adjusted with your favorite configuration but the Windows must be installed in English.                   <br/>
  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/re2PbNx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
  Select "install now." Select "Windows Server 2022 Datacenter Evaluation (Desktop Experience)". For a lab, the GUI can be usefull if you start a fresh career in IT.           <br/>
  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZPrb0AI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
-       Select "install"       <br/>
+      Accept software license and select custom install.       <br/>
        
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iDurh47.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
- -Select your keymap
--Use the default partition (we're in a lab, we just need a firewall)
--Proceed with installation (no miror, no encrypt, nothing)
--Wait until the installation is complete   <br/>
+      Select the only drive mount and click "next"                    <br/>
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DXf9Mho.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
 
 <br />
-        Do not load manual configuration    <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  Wait until the installation is complete and the system reboots itself. Set your password (remember it's a lab, you can have a weak password)   <br/>
+<img src="https://i.imgur.com/TWVRyJa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
